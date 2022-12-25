@@ -1,0 +1,41 @@
+
+body{
+  font-family: Roboto, Verdana, sans-serif;
+}
+header {
+display: inline;
+position: fixed;
+background-color: white;
+width: 100%; /* barre il fou9aniya 3al Page il kol */
+top: 10px;
+
+}
+
+
+.navLink {
+  text-decoration: none; /*pour eliminer le ligne souligné*/
+color: rgb(110, 120, 33);
+margin: 50px;
+}
+.body {
+  margin-top: 120px;
+}
+.List-Link {
+list-style-type: none;/*pour faire le style le liste */
+display: flex;/*pour mettre l'ecriture en ligne */
+} 
+.Loisirs {
+text-decoration-style: wavy;
+ font-style: italic;
+ color: blueviolet;
+
+}
+footer {
+  text-align:center;
+
+}
+.Audio:{
+  margin: 120px;
+  background-image: url("https://www.freepik.com/free-vector/musical-melody-symbols-yellow-splotch_18175206.htm#query=music%20cartoon&position=1&from_view=keyword");
+  background-size: cover;
+}
